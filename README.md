@@ -6,7 +6,7 @@ This guide walks you through the steps I took to set up a LAMP (Linux, Apache, M
 
 ## Table of Contents
 
-- [🚀 Installation](#🚀-installation)
+- [🚀 Installation](#-installation-)
   - [📦 Installing Apache, MySQL, and PHP](#📦-installing-apache-mysql-and-php)
   - [✅ Ensuring Apache is Working](#✅-ensuring-apache-is-working)
   - [🌐 Testing the Default Configuration](#🌐-testing-the-default-configuration)
