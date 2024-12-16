@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide walks you through the steps I took to set up a LAMP (Linux, Apache, MySQL, PHP) stack, configuring it to host a website, making it accessible on the cloud, and exploring networking basics.
+This guide explains the steps I followed to set up a LAMP (Linux, Apache, MySQL, PHP) stack, configure it to host a website, and make it accessible on the cloud. It also covers the networking basics involved in this setup. The steps are presented as a clear, easy-to-follow guide to help you replicate the process.
 
 ## Table of Contents
 
