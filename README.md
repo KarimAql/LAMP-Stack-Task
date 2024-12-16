@@ -243,7 +243,7 @@ ssh -i /path/to/your-key.pem ubuntu@your-instance-public-dns
 
 - Verify the visitors in the database.
 ![public database](database%20public.jpeg)
-- The Website can now be publicly accessed through: `http://16.171.227.113:81/`
+- The Website is now publicly accessible through: `http://16.171.227.113:81/`
   
 ## 🌐 Networking Basics
 
@@ -256,7 +256,7 @@ In the task above, the 🌍 *IP address* plays a crucial role in making the webs
 
 2. **Firewall Configuration**: To allow users to access the website, **inbound rules** in the AWS security group were configured to permit traffic on port 81. This ensures that HTTP requests sent to the *public IP address* on port 81 can reach the Apache server.
 
-3. **Website Accessibility**: When users visit `http://<Your-Public-IP>:81`, the **public IP address** directs the browser’s request to the server, and Apache responds with the appropriate content, such as the index.php file configured in the server’s document root.
+3. **Website Accessibility**: When users visit `http://16.171.227.113:81/`, the **public IP address (16.171.227.113)** directs the browser’s request to the server, and Apache responds with the appropriate content, such as the index.php file configured in the server’s document root.
 
 In summary, the 🌍 *IP address* facilitates the identification of
 the server and enables proper routing of data between the server and external clients, making the website accessible.
