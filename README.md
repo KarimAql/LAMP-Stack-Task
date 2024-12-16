@@ -237,13 +237,14 @@ ssh -i /path/to/your-key.pem ubuntu@your-instance-public-dns
 ```
 ![SSH connection](ssh.jpeg)
 - Repeat the installation, configuration, and database setup steps.
-- Test the website by accessing `http://<your-public-ip>:81`.
+- Test the website by accessing `http://16.171.227.113:81/`.
 
 ![public website](public%20website.jpeg)
 
 - Verify the visitors in the database.
 ![public database](database%20public.jpeg)
-
+- The Website can now be publicly accessed through: `http://16.171.227.113:81/`
+  
 ## 🌐 Networking Basics
 
 ### 📡 IP Address
