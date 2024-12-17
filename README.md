@@ -7,6 +7,9 @@ This guide explains the steps I followed to set up a LAMP (Linux, Apache, MySQL,
 ## GitHub Link
 `https://github.com/KarimAql/LAMP-Stack-Task`
 
+## Website Link
+`http://16.171.227.113:81/`
+
 ## Table of Contents
 
 - [🚀 Installation](#-installation-)
