@@ -1,2 +1,4 @@
 #Exclude all private key files
 *.pem
+#Exclude the database files
+*sql
